@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 --->
 
-# Quick Bio
+# Brief Biography
 **By:** Quade Jones  
 **Website:** [gq.net](https://gq.net)
 
@@ -48,8 +48,14 @@ I rarely create **public** repositories (most are private). My projects are usua
   - Java
   - C
   - C++
+  - Javascript - Node.js
   - Python
+  - Asssembly - x86, NASM
   - some C#
+- Database
+  - SQL - MySQL DB
+  - SQL - Oracle DB
+  - SQL - Vertica DB
  
 ## Education: 
 - Computer Science - Penn State University - Masters Degree
