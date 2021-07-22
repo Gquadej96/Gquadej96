@@ -15,19 +15,19 @@ You can click the Preview link to take a look at your changes.
 **By:** Quade Jones  
 **Website:** [gq.net](https://gq.net)
 
-I rarely create **public** repositories (most are private). My projects are usually not polished to production quality. Typically, my projects are just build to test out ideas or create cool demos.
+I usually only create private repositories. My projects are usually not polished to production quality. Typically, my projects are just meant to test out ideas or create cool demos.
 
 ## Favorite Algorithms: 
-- Median-Of-Median Quick Select Algorithm
-- Euclidian GCF (and LCM) Algorithm.
-- Heap Sort Algorithm.
+- Median-Of-Medians Quick Select Algorithm
+- Euclidian GCF (and LCM) Algorithm
+- Heap Sort Algorithm
 
 ## Interests: 
 - Computer Graphics
   - Ray Tracing and Path Tracing
   - Ray Marching
   - Rasterization
-- Computational Geometric
+- Computational Geometry
   - Convex Hull Generation
   - GJK Algorithm
 - Parsers and Parser Generators
@@ -53,9 +53,9 @@ I rarely create **public** repositories (most are private). My projects are usua
   - Asssembly - x86, NASM
   - some C#
 - Database
-  - SQL - MySQL DB
-  - SQL - Oracle DB
-  - SQL - Vertica DB
+  - SQL - MySQL Database
+  - SQL - Oracle Database
+  - SQL - Vertica Database
  
 ## Education: 
 - Computer Science - Penn State University - Masters Degree
